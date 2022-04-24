@@ -2,6 +2,7 @@
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
 
-   <div><h2>Hello World</h2></div>
-
+   <div><h2>Hello World</h2>
+       <p>&nbsp;</p></div>
+    <h1>Hello World 2</h1>
 </asp:Content>
